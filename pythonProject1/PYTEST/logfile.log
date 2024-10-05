@@ -1,0 +1,6 @@
+2024-05-13 07:58:43,213 :INFO : PYTEST.test_logging :Information statement
+2024-05-13 07:58:43,213 :WARNING : PYTEST.test_logging :Something is in warning mode
+2024-05-13 07:58:43,213 :ERROR : PYTEST.test_logging :A major error
+2024-05-13 07:58:43,213 :CRITICAL : PYTEST.test_logging :Critical issue
+2024-05-14 07:22:51,884 :INFO : PYTEST.BaseClass :rahul
+2024-05-14 07:22:51,884 :INFO : PYTEST.BaseClass :rahulshettyacademy.com
